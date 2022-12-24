@@ -1,0 +1,15 @@
+E:\Programms\Lab4_KazanovAlexandr\Figures\bin\Debug\net7.0\Figures.exe
+E:\Programms\Lab4_KazanovAlexandr\Figures\bin\Debug\net7.0\Figures.deps.json
+E:\Programms\Lab4_KazanovAlexandr\Figures\bin\Debug\net7.0\Figures.runtimeconfig.json
+E:\Programms\Lab4_KazanovAlexandr\Figures\bin\Debug\net7.0\Figures.dll
+E:\Programms\Lab4_KazanovAlexandr\Figures\bin\Debug\net7.0\Figures.pdb
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.csproj.AssemblyReference.cache
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.AssemblyInfoInputs.cache
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.AssemblyInfo.cs
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.csproj.CoreCompileInputs.cache
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.dll
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\refint\Figures.dll
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.pdb
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\Figures.genruntimeconfig.cache
+E:\Programms\Lab4_KazanovAlexandr\Figures\obj\Debug\net7.0\ref\Figures.dll
