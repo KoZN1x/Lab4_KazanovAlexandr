@@ -1,0 +1,15 @@
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\bin\Debug\net7.0\Register.exe
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\bin\Debug\net7.0\Register.deps.json
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\bin\Debug\net7.0\Register.runtimeconfig.json
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\bin\Debug\net7.0\Register.dll
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\bin\Debug\net7.0\Register.pdb
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.csproj.AssemblyReference.cache
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.AssemblyInfoInputs.cache
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.AssemblyInfo.cs
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.csproj.CoreCompileInputs.cache
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.dll
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\refint\Register.dll
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.pdb
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\Register.genruntimeconfig.cache
+E:\Programms\Lab4_KazanovAlexandr\Register\Register\obj\Debug\net7.0\ref\Register.dll

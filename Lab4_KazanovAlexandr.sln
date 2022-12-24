@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figures", "Figures\Figures.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office", "Office\Office.csproj", "{D33EA1F9-78A7-4193-8F0A-6E28DFF1CFC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Register", "Register\Register.csproj", "{288B4D06-1589-4106-8558-49D05740B8A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D33EA1F9-78A7-4193-8F0A-6E28DFF1CFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D33EA1F9-78A7-4193-8F0A-6E28DFF1CFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D33EA1F9-78A7-4193-8F0A-6E28DFF1CFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288B4D06-1589-4106-8558-49D05740B8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288B4D06-1589-4106-8558-49D05740B8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288B4D06-1589-4106-8558-49D05740B8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288B4D06-1589-4106-8558-49D05740B8A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
